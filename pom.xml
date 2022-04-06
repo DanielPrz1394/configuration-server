@@ -10,7 +10,7 @@
 
     <groupId>com.github.danielprz1394.applications</groupId>
     <artifactId>configuration-server</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <name>${project.artifactId}</name>
     <description>Configuration server for spring applications.</description>
 
