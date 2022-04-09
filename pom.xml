@@ -12,7 +12,8 @@
     <artifactId>configuration-server</artifactId>
     <version>1.0.0</version>
     <name>${project.artifactId}</name>
-    <description>Configuration server for spring applications.</description>
+    <description>Configuration server for Spring applications using Spring Data JDB, Spring Cloud Config Server and Microsoft SQL Server Database.</description>
+    <url>https://github.com/DanielPrz1394/configuration-server</url>
 
     <licenses>
         <license>
